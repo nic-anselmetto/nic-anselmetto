@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nic-anselmetto
 - 👀 I’m interested in forest landscape ecology and climate change
 - 🌱 I’m currently learning Species Distribution Models and Bayesian statistics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: use my institutional email nicolo.anselmetto@unito.it
 
 <!---
